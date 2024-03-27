@@ -6,13 +6,17 @@
 
 Markdown to Text: md2txt.bash
 
-2024/03/21 Ver.0.01
+2024/03/27 Ver.0.02
+
+The directory to be processed was stored in a constant.
 
 ### text_to_markdown
 
 Text to Markdown: txt2md.bash
 
-2024/03/21 Ver.0.01
+2024/03/27 Ver.0.02
+
+The directory to be processed was stored in a constant.
 
 ## Powershell
 
