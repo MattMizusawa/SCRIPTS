@@ -23,6 +23,8 @@ The directory to be processed was stored in a constant.
 ### zero_padding_rename
 
 Zero Padding Rename: zero_padding_rename.ps1
+
 2024/03/23 Ver.0.01
-$args[0] Target Directory
-$args[1] Target filename extension(ex: '*.jpg' , '*.png')
+
+- $args[0] Target Directory
+- $args[1] Target filename extension(ex: '*.jpg' , '*.png')
