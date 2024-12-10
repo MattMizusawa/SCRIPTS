@@ -1,5 +1,7 @@
 ﻿# SCRIPTS
 
+【公開】各種スクリプト類
+
 ## bash
 
 ### markdown_to_text
